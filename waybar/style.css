@@ -42,8 +42,8 @@ tooltip {
     padding: 0px 5px;
     transition: all .3s ease;
 }
-#clock calendar {
-    color: red;
+#clock.calendar {
+    background-color: #26A65B;
 }
 
 #custom-pacman{
